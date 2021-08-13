@@ -58,7 +58,7 @@
     "@zeit/next-typescript": "^1.1.1",
     "babel-plugin-transform-optional-chaining": "^7.0.0-beta.3",
     "isomorphic-fetch": "^2.2.1",
-    "next": "^9.0.6",
+    "next": "^11.1.0",
     "next-compose-plugins": "^2.2.0",
     "next-optimized-images": "^2.5.5",
     "node-fetch": "^2.6.0",
